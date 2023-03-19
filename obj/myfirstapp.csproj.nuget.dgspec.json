@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mob_o\\Desktop\\Starting to learn C#\\example\\myfirstapp\\myfirstapp.csproj": {}
+    "C:\\Users\\mob_o\\Desktop\\Starting to learn C#\\FirstProgram\\myfirstapp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mob_o\\Desktop\\Starting to learn C#\\example\\myfirstapp\\myfirstapp.csproj": {
+    "C:\\Users\\mob_o\\Desktop\\Starting to learn C#\\FirstProgram\\myfirstapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mob_o\\Desktop\\Starting to learn C#\\example\\myfirstapp\\myfirstapp.csproj",
+        "projectUniqueName": "C:\\Users\\mob_o\\Desktop\\Starting to learn C#\\FirstProgram\\myfirstapp.csproj",
         "projectName": "myfirstapp",
-        "projectPath": "C:\\Users\\mob_o\\Desktop\\Starting to learn C#\\example\\myfirstapp\\myfirstapp.csproj",
+        "projectPath": "C:\\Users\\mob_o\\Desktop\\Starting to learn C#\\FirstProgram\\myfirstapp.csproj",
         "packagesPath": "C:\\Users\\mob_o\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mob_o\\Desktop\\Starting to learn C#\\example\\myfirstapp\\obj\\",
+        "outputPath": "C:\\Users\\mob_o\\Desktop\\Starting to learn C#\\FirstProgram\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mob_o\\AppData\\Roaming\\NuGet\\NuGet.Config"

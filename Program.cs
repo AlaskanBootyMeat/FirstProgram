@@ -20,10 +20,13 @@ string GetName()
 
 //     string fullname = firstname + " " + lastname; // Expression that combines the first name, an empty space, and a last name
 //     return fullname;
-    Console.WriteLine("what is your name");
-    var name = Console.ReadLine();
-    return name;
+    Console.WriteLine("what is your first name");
+    var firstname = Console.ReadLine();
+
+    Console.WriteLine("what is your last name?");
+    var lastname = Console.ReadLine();
+    return $"{firstname} {lastname}";
 }
 
-string name = GetName();
-PrintHello(name);
+string fullname = GetName();
+PrintHello(fullname);
