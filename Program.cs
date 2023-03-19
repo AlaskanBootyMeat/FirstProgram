@@ -25,5 +25,5 @@ string GetName()
     return name;
 }
 
-string fullname = GetName();
-PrintHello(fullname);
+string name = GetName();
+PrintHello(name);
